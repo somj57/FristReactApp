@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fristreactapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fristreactapp/static/js/main.ab68005d.chunk.js",
+    "main.js.map": "/fristreactapp/static/js/main.ab68005d.chunk.js.map",
+    "runtime-main.js": "/fristreactapp/static/js/runtime-main.a47ef88f.js",
+    "runtime-main.js.map": "/fristreactapp/static/js/runtime-main.a47ef88f.js.map",
+    "static/js/2.8ffc566c.chunk.js": "/fristreactapp/static/js/2.8ffc566c.chunk.js",
+    "static/js/2.8ffc566c.chunk.js.map": "/fristreactapp/static/js/2.8ffc566c.chunk.js.map",
+    "static/js/3.14bed9d1.chunk.js": "/fristreactapp/static/js/3.14bed9d1.chunk.js",
+    "static/js/3.14bed9d1.chunk.js.map": "/fristreactapp/static/js/3.14bed9d1.chunk.js.map",
+    "index.html": "/fristreactapp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fristreactapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8ffc566c.chunk.js.LICENSE.txt": "/fristreactapp/static/js/2.8ffc566c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/fristreactapp/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a47ef88f.js",
+    "static/js/2.8ffc566c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ab68005d.chunk.js"
+  ]
+}
